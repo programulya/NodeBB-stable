@@ -1,0 +1,15 @@
+{
+    "home": "Etusivu",
+    "unread": "Lukemattomat aiheet",
+    "popular": "Suositut aiheet",
+    "recent": "Viimeisimmät aiheet",
+    "users": "Rekisteröityneet käyttäjät",
+    "notifications": "Ilmoitukset",
+    "user.edit": "Muokataan \"%1\"",
+    "user.following": "Käyttäjät, joita %1 seuraa",
+    "user.followers": "Käyttäjät, jotka seuraavat käyttäjää %1",
+    "user.posts": "Käyttäjän %1 kirjoittamat viestit",
+    "user.topics": "Käyttäjän %1 aloittamat aiheet",
+    "user.favourites": "Käyttäjän %1 suosikkiviestit",
+    "user.settings": "Käyttäjän asetukset"
+}

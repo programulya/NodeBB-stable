@@ -1,0 +1,9 @@
+{
+    "title": "Непрочитанные темы",
+    "no_unread_topics": "Нет непрочитанных тем.",
+    "load_more": "Загрузить еще",
+    "mark_as_read": "Mark as Read",
+    "selected": "Selected",
+    "all": "All",
+    "topics_marked_as_read.success": "Topics marked as read!"
+}

@@ -1,0 +1,15 @@
+{
+    "home": "Home",
+    "unread": "Neprečítané príspevky",
+    "popular": "Populárne Témy",
+    "recent": "Najnovšie príspevky",
+    "users": "Prihlásení uživatelia",
+    "notifications": "Notifikácie",
+    "user.edit": "Uprav \"%1\"",
+    "user.following": "Užívatelia  %1 následujú",
+    "user.followers": "Užívatelia následujúci %1",
+    "user.posts": "Príspevky od %1",
+    "user.topics": "Téma vytvorená %1\n",
+    "user.favourites": "%1's obľubených príspevkov",
+    "user.settings": "Užívatelské nadstavenie"
+}

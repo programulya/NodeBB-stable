@@ -1,0 +1,18 @@
+{
+    "title": "Powiadomienia",
+    "no_notifs": "Nie masz nowych powiadomień",
+    "see_all": "Zobacz wszystkie powiadomienia",
+    "back_to_home": "Wróć do forum",
+    "outgoing_link": "Łącze wychodzące",
+    "outgoing_link_message": "Opuszczasz",
+    "continue_to": "Kontynuuj do",
+    "return_to": "Wróć do",
+    "new_notification": "Nowe powiadomienie",
+    "you_have_unread_notifications": "Masz nieprzeczytane powiadomienia.",
+    "user_made_post": "<strong>%1</strong> napisał nowy post",
+    "new_message_from": "Nowa wiadomość od <strong>%1</strong>",
+    "upvoted_your_post": "<strong>%1</strong> has upvoted your post.",
+    "favourited_your_post": "<strong>%1</strong> has favourited your post.",
+    "user_flagged_post": "<strong>%1</strong> flagged a post.",
+    "user_posted_to": "<strong>%1</strong> dodał odpowiedź do <strong>%2</strong>"
+}

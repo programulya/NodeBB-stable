@@ -1,0 +1,18 @@
+{
+    "title": "Notifications",
+    "no_notifs": "Vous n'avez aucune notification",
+    "see_all": "Voir toutes les notifications.",
+    "back_to_home": "Retour à NodeBB",
+    "outgoing_link": "Lien Sortant",
+    "outgoing_link_message": "Vous quitter NodeBB",
+    "continue_to": "Continuer vers",
+    "return_to": "Retour vers ",
+    "new_notification": "Nouvelle Notification",
+    "you_have_unread_notifications": "Vous avez des notifications non-lues",
+    "user_made_post": "<strong>%1</strong> a posté un nouveau message",
+    "new_message_from": "Nouveau message de <strong>%1</strong>",
+    "upvoted_your_post": "<strong>%1</strong> a voté pour votre message.",
+    "favourited_your_post": "<strong>%1</strong> a mis votre message en favoris.",
+    "user_flagged_post": "<strong>%1</strong> a signalé un message.",
+    "user_posted_to": "<strong>%1</strong> a répondu à : <strong>%2</strong>"
+}

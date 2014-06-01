@@ -1,0 +1,11 @@
+{
+    "chat.chatting_with": "گفتگو با <span id=\"chat-with-name\"></span>",
+    "chat.placeholder": "متن را اینجا بنویسد و دکمهٔ‌ Enter را برای فرستادن بفشارید.",
+    "chat.send": "فرستادن",
+    "chat.no_active": "شما هیچ گفتگوی فعالی ندارید.",
+    "chat.user_typing": "%1 در حال نوشتن است...",
+    "chat.user_has_messaged_you": "%1 has messaged you.",
+    "chat.see_all": "See all Chats",
+    "composer.user_said_in": "%1 said in %2:\n",
+    "composer.user_said": "%1 said:\n"
+}

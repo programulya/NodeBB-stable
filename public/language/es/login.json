@@ -1,0 +1,8 @@
+{
+    "username": "Usuario / Email",
+    "remember_me": "Recordarme?",
+    "forgot_password": "Olvidaste tu contraseña?",
+    "alternative_logins": "Conexiones Alternativas",
+    "failed_login_attempt": "Error al iniciar sesión, intenta otra vez.",
+    "login_successful": "Te has conectado con éxito!"
+}

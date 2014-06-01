@@ -1,0 +1,15 @@
+{
+    "home": "Home",
+    "unread": "Argomenti non letti",
+    "popular": "Argomenti Popolari",
+    "recent": "Argomenti Recenti",
+    "users": "Utenti Registrati",
+    "notifications": "Notifiche",
+    "user.edit": "Modificando \"%1\"",
+    "user.following": "%1 Persone seguono",
+    "user.followers": "Persone che seguono %1",
+    "user.posts": "Post inviati da %1",
+    "user.topics": "Topics created by %1",
+    "user.favourites": "Post Favoriti di %1",
+    "user.settings": "Impostazioni Utente"
+}

@@ -1,0 +1,86 @@
+﻿{
+  "name": "nodebb",
+  "license": "GPLv3 or later",
+  "description": "NodeBB Forum",
+  "version": "0.4.3",
+  "homepage": "http://www.nodebb.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeBB/NodeBB/"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "./nodebb start",
+    "stop": "./nodebb stop",
+    "test": "mocha ./tests -t 10000"
+  },
+  "dependencies": {
+    "express": "3.2.0",
+    "express-namespace": "~0.1.1",
+    "socket.io": "~0.9.16",
+    "socket.io-wildcard": "~0.1.1",
+    "passport": "~0.2.0",
+    "passport-local": "0.1.6",
+    "marked": "0.2.8",
+    "async": "~0.2.8",
+    "gm": "1.14.2",
+    "gravatar": "1.0.6",
+    "nconf": "~0.6.7",
+    "sitemap": "~0.7.1",
+    "winston": "~0.7.2",
+    "rss": "~0.2.0",
+    "request": "~2.34.0",
+    "prompt": "~0.2.11",
+    "uglify-js": "~2.4.0",
+    "validator": "~3.4.0",
+    "cron": "~1.0.4",
+    "semver": "~2.2.1",
+    "string": "~1.7.0",
+    "xregexp": "~2.0.0",
+    "bcryptjs": "~0.7.10",
+    "less": "~1.6.3",
+    "daemon": "~1.1.0",
+    "underscore": "~1.6.0",
+    "mkdirp": "~0.3.5",
+    "rimraf": "~2.2.6",
+    "npm": "^1.4.6",
+    "nodebb-plugin-mentions": "~0.5.0",
+    "nodebb-plugin-markdown": "~0.4.1",
+    "nodebb-widget-essentials": "~0.0.21",
+<<<<<<< HEAD
+    "nodebb-theme-vanilla": "<0.0.20",
+    "nodebb-theme-lavender": "<0.0.26",
+=======
+    "nodebb-theme-vanilla": "~0.0.21",
+    "nodebb-theme-lavender": "~0.0.26",
+    "nodebb-plugin-soundpack-default": "~0.1.1",
+>>>>>>> fbdff5bb438868d6cf5c4bb2c1be541a4f4a70f8
+    "nodebb-plugin-dbsearch": "0.0.9"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/NodeBB/NodeBB/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "maintainers": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    }
+  ]
+}

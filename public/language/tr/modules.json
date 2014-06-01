@@ -1,0 +1,11 @@
+{
+    "chat.chatting_with": "<span id=\"chat-with-name\"> </ span> ile konuş",
+    "chat.placeholder": "Sohbet mesajınızı yazın, göndermek için enter'a basın",
+    "chat.send": "Gönder",
+    "chat.no_active": "Aktif sohbet mevcut değil",
+    "chat.user_typing": "%1 yazıyor ...",
+    "chat.user_has_messaged_you": "%1 has messaged you.",
+    "chat.see_all": "See all Chats",
+    "composer.user_said_in": "%1 said in %2:\n",
+    "composer.user_said": "%1 said:\n"
+}

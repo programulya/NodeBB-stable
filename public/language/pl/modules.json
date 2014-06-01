@@ -1,0 +1,11 @@
+{
+    "chat.chatting_with": "Rozmawiaj z <span id=\"chat-with-name\"></span>",
+    "chat.placeholder": "napisz wiadomość tutaj i naciśnij enter",
+    "chat.send": "Wyślij",
+    "chat.no_active": "Nie prowadzisz obecnie żadnych rozmów.",
+    "chat.user_typing": "%1 pisze...",
+    "chat.user_has_messaged_you": "%1 has messaged you.",
+    "chat.see_all": "See all Chats",
+    "composer.user_said_in": "%1 said in %2:\n",
+    "composer.user_said": "%1 said:\n"
+}
